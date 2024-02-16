@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import dynamic from "next/dynamic";
 import { Inter } from "next/font/google";
-import "../assets/styles/globals.css";
+import "./globals.css";
 import { PHProvider } from "./providers";
 
 const inter = Inter({ subsets: ["latin"] });
