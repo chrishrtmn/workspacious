@@ -6,7 +6,6 @@ Curated workspace inspirations.
 
 - [Next.js](https://nextjs.org/)
 - [Reddit API](https://www.reddit.com/dev/api/)
-- [Vercel](https://vercel.com)
 
 ## Getting Started
 
@@ -17,10 +16,6 @@ pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js.
 
 ## License & copyright
 
